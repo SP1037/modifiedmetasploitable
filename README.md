@@ -1,4 +1,4 @@
-# modified metasploitable
+# Modified Metasploitable 2
 This is modified version of Metasploitable | Stay Ethical
 
 Gdrive Link :
