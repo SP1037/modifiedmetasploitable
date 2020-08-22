@@ -28,3 +28,10 @@ DB Credentials are : "sp1037/admin"
 1. Install Virtual Box with Virtual Box Extension
 2. Download Given OVA file of Metasploitable 2 from Gdrive
 3. Double On it Install on Virtual Box and Run !!
+
+
+### Disclamer
+This is for "Education Purpose" Only.
+I am not responsible for any action that can be initiated through project or any methodology that learned from this project.
+All rights are reserved to respectuve owners !!
+Stay Ethical | Stay Safe .
