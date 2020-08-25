@@ -34,7 +34,8 @@ DB Credentials are : "sp1037/admin"
 ### Disclamer
 ```
  This is for "Education Purpose" Only.
- I am not responsible for any action that can be initiated through project or any methodology that learned from this project.
+ I am not responsible for any action that can be initiated through project
+ or any methodology that learned from this project.
  All rights are reserved to respectuve owners !!
  Stay Ethical | Stay Safe .
 ```
